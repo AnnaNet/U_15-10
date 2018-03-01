@@ -54,6 +54,12 @@
   }
 }
 
+@media screen and (min-width: 500px) and (max-width: 700px) {
+  .snippetOver {
+    font-size: 16px;
+  }
+}
+
 @media screen and (min-width: 400px) and (max-width: 550px) {
   .weather__next {
     font-size: 16px;
